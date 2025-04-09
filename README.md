@@ -19,7 +19,7 @@ $ ./exec [options]
 - `-s <x> <y>` : change the visualisation size. default : 800 800  
 - `-w` : print the weight of the final chosen tree. default : doesn't  
 - `-a [1-3] [options]`: choose which algorithm to use  
-    default : -a 3 -n 30 -prof 9 (Steiner function in main)  
+    > default : -a 3 -n 30 -prof 9 (Steiner function in main)  
     algorithms :  
     `1` : hill_climbing  
         options :   
